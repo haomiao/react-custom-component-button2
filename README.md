@@ -17,5 +17,5 @@ the dist dir is the packed objects.
 ## How to use the component in your project:
 - npm i -D react-custom-component-button2
 - import {Button2} from 'react-custom-component-button2';
-- <Button2 />
+- where to use the component, use tag: '<Button2 />'
 
